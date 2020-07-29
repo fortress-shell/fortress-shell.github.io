@@ -9,5 +9,5 @@ Cloud Continuos Integration Tool as a service by [@mikefaraponov](https://www.li
 ## [Event Processor](https://github.com/fortress-shell/bus)
 ## [Cloud Agent](https://github.com/fortress-shell/agent)
 
-## ScalableSpace
+## Sponsors
 Soon will be available on [ScaleChamp](https://scalechamp.com)
